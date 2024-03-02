@@ -1,0 +1,10 @@
+.btn-container{
+
+align-self: center;
+padding: 20px;
+display: flex;
+justify-content: space-between;
+width: 50%;
+gap: 10%;
+
+}

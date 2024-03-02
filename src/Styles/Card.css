@@ -1,0 +1,12 @@
+.card{
+background-color: Blue;
+padding: 50px;
+width:70%;
+margin: 40px auto;
+border-radius: 20px;
+box-shadow: 20px,30px;
+display: flex;
+flex-direction: column;
+overflow: hidden;
+
+}

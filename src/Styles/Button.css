@@ -1,0 +1,16 @@
+button{
+    padding: 15px 5px;
+    border-radius: 20px;
+    flex:2;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.active{
+    background-color: gray;
+}
+.disabled{
+    background-color: red;
+}

@@ -1,0 +1,23 @@
+/* :root{
+    margin: 0;
+    padding: 0;
+
+} */
+
+*{
+    margin: 0;
+        padding: 0;
+}
+.title{
+ text-align: center;
+ color:white;
+ font-weight: bold;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.root{
+    display:flex;
+    flex:1;
+    background-color :#0E0E52;
+  flex-direction:column;
+}
