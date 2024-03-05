@@ -8,5 +8,5 @@ box-shadow: 20px,30px;
 display: flex;
 flex-direction: column;
 overflow: hidden;
-
+align-items :center;
 }
