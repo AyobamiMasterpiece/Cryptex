@@ -1,9 +1,10 @@
 .btn-container{
 
-align-self: center;
+/* align-self: center; */
 padding: 20px;
 display: flex;
 justify-content: space-between;
+align-items: center;
 width: 50%;
 gap: 10%;
 
