@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Styles/shift.css'
+import '../Styles/Shift.css'
 
 export default function Shift({changeShift,shift}) {
   return (
