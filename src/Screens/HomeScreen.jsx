@@ -59,7 +59,9 @@ setText(e)
       </Card>
       <Card>
        <CryptTitle isEncrypt={isEncrypt} ></CryptTitle>
-        <hr />
+        <hr  style={{
+          alignSelf:'stretch'
+        }}/>
         <CryptText  text={text} shift={shift} isEncrypt={isEncrypt} ></CryptText>
       </Card>
     </div>
